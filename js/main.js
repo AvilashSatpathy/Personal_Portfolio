@@ -1,4 +1,8 @@
 /*--------------- navigation menu ----------------- */
+<<<<<<< HEAD
+=======
+
+>>>>>>> 881ffe745572195ee2fe27931e1999ce4ea6189c
 (() => {
     const hamburgerBtn = document.querySelector(".hamburger-btn"),
     navMenu = document.querySelector(".nav-menu"),
