@@ -1,7 +1,4 @@
 /*--------------- navigation menu ----------------- */
-import { injectSpeedInsights } from "@vercel/speed-insights";
-injectSpeedInsights();
-
 (() => {
     const hamburgerBtn = document.querySelector(".hamburger-btn"),
     navMenu = document.querySelector(".nav-menu"),
